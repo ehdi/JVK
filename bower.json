@@ -1,0 +1,14 @@
+{
+  "name": "jvk",  
+  "homepage": "https://github.com/ehdi/jvk",
+  "authors": [
+    "Dmitriy Khudorozhkov"
+  ],
+  "description": "JavaScript Virtual Keyboard",
+  "main": [
+    "dist/jvk_2.7.0.js",
+  ],
+  "ignore": [],
+  "dependencies": {},
+  "devDependencies": {}
+}
