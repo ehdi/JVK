@@ -348,7 +348,7 @@ VKeyboard.prototype = {
       prevH = this._findH(key); // universal key height
 
       var kb_kbp = this._setup_key(kb_main, "___kbp", prevY + "px", (prevX + prevW + gap) + "px", (2.96 * cell) + "px", cp, r, lh, fs, n, "", pad);
-      kb_kbp.innerHTML = "BackSpace";
+      kb_kbp.innerHTML = "←";
       this.mod[0] = kb_kbp;
 
       // Top row:
